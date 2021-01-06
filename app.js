@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 // This is change in branch 
 // checking fetch vs pull on local
+=======
+// This is change in remote
+// This is to test git change
+	/
+>>>>>>> refs/remotes/origin/master
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
